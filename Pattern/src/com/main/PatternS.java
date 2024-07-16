@@ -38,5 +38,7 @@ public class PatternS {
 			}
 			System.out.println();
 		}
+		
+		//Pankaj raut
 	}
 }
